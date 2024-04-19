@@ -8,7 +8,7 @@ This Employee Management System is a desktop application developed using Core Py
 
 - [Features](#features)
 - [Usage](#usage)
-- [Installation and setup](#installationandsetup)
+- [Installation and setup](#installation-and-setup)
 - [Requirements](#requirements)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -26,7 +26,6 @@ This Employee Management System is a desktop application developed using Core Py
 - Python 3.x
 - Tkinter library
 - MySQL database server
-- XAMPP 3.0
 
 ## Installation and Setup
 
