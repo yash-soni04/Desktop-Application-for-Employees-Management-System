@@ -31,15 +31,15 @@ This Employee Management System is a desktop application developed using Core Py
 
 1. Clone the repository to your local machine:
 
-    ```
+    `
     git clone https://github.com/your_username/employee-management-system.git
-    ```
+    `
 
 2. Install the required dependencies:
 
-    ```bash
+    `
     pip install mysql-connector-python
-    ```
+    `
 
 3. Set up MySQL database:
    - Create a MySQL database named `employee_management`.
@@ -50,9 +50,9 @@ This Employee Management System is a desktop application developed using Core Py
 
 1. Run the application:
 
-    ```
+    `
     python main.py
-    ```
+    `
 
 2. The application window will open, displaying options to perform CRUD operations on employee records.
 
