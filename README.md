@@ -32,7 +32,7 @@ This Employee Management System is a desktop application developed using Core Py
 1. Clone the repository to your local machine:
 
     `
-    git clone https://github.com/your_username/employee-management-system.git
+    git clone https://github.com/yash-soni04/Desktop-Application-for-Employees-Management-System.git
     `
 
 2. Install the required dependencies:
